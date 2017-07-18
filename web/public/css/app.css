@@ -1,0 +1,12 @@
+.title-link, .student-name {
+    color: inherit;
+    text-decoration: none;
+}
+
+.title-link:hover{
+    text-decoration: none;
+}
+
+.edit-options {
+    display: none;
+}
